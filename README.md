@@ -1,7 +1,7 @@
 # Distracted-Driver-MultiAction-Classification
 Distracted-Driver-MultiAction-Classification  Download Data from here : https://www.dropbox.com/s/0vyzjcqsdl6cqi2/state-farm-distracted-driver-detection.zip?dl=0 (https://www.dropbox.com/s/0vyzjcqsdl6cqi2/state-farm-distracted-driver-detection.zip?dl=0)
 
-1. You need to classify images into these 10 classes
+Images should be classified into following 10 classes
 
 c0: safe driving
 
